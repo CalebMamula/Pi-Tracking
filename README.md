@@ -5,4 +5,4 @@ The program has the first 10,000 digits of pi from https://calculat.io/en/number
 
 It can all be reset by pressing R.
 
-*There are known bugs, such as the highlighter not showing properly on digit 201. 401, etc. There could be others as this was just a quick fun thing thrown together in a couple hours.*
+*There are known bugs, such as the highlighter not showing properly on digit 201. 401, etc. There could be others as this was just a quick fun thing thrown together in a couple hours. Changing the page size or hitting the full screen button will liekly cause the text to be in incorrect places.*
